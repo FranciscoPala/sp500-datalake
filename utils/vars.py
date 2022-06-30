@@ -1,1 +1,0 @@
-local_lake = "D:\sp500-lake"

@@ -1,0 +1,10 @@
+{
+    "wikipedia":{
+        "wikipedia_sp500": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+    },
+    
+    "income_api": "https://financialmodelingprep.com/api/v3/income-statement/{cik}",
+    "balance_api": "https://financialmodelingprep.com/api/v3/balance-sheet-statement/{cik}",
+    "cash_flow_api": "https://financialmodelingprep.com/api/v3/cash-flow-statement/{cik}",
+    "daily_market_cap_api": "https://financialmodelingprep.com/api/v3/historical-market-capitalization/{cik}"
+}

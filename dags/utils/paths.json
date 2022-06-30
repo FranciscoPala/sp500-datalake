@@ -1,0 +1,16 @@
+{
+    "buckets": {
+        "local_lake": "D:/sp500-lake",
+        "s3_lake": ""
+    },
+
+    "raw":{
+        "wikipedia_changes_dir" : "raw/wikipedia/changes"
+    },
+
+    "prod":{
+        "constituents_time_series_key": "prod/wikipedia/changes/constituents-time-series.csv",
+        "constituents_key": "prod/wikipedia/changes/constituents.csv"
+    }
+
+}
